@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color:Black 
+Favorite food:Pizza 
+Favorite musician/band:Queen 
+Favorite movie:Me Before You 
+Requested grade in the course:10000 
